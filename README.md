@@ -31,5 +31,5 @@ The Y!Grabber is a Fully bundled and compiled Python GUI Software Designed to fa
 
 You can download the Software Setup from the following link:
 
-[Download Y!Grabber]([(https://1drv.ms/u/s!AgJDIlYd7TlRg3Og5alZEBrP8W6y?e=HWnS9u)])
+[Download Y!Grabber](https://1drv.ms/u/s!AgJDIlYd7TlRg3Og5alZEBrP8W6y?e=HWnS9u)
 
